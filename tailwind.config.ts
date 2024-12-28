@@ -12,6 +12,7 @@ export default {
         background: "var(--background)",
         foreground: "var(--foreground)",
         header: "#7a8288",
+        'header-border': 'rgb(242, 243, 243)',
         footer: "#f2f3f3",
         "footer-text": "#9ba1a6",
       },
